@@ -34,7 +34,7 @@ Download assistant.exe
 Run the application
 Enter your Porcupine Access Key (first time only)
 Restart your system
-Say "Kyra" to activate the assistant
+Say "start Kyra" to activate the assistant
 
 
 🔑 How to Get Access Key
