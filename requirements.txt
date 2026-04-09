@@ -2,3 +2,5 @@ SpeechRecognition
 pyttsx3
 pvporcupine
 pyaudio
+pystray
+pillow
